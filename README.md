@@ -2,8 +2,7 @@
 ##
 
 - 🔭 Hoje estou estudando tecnologias para desenvolvimento Front-End!
-- 🌱 Estou estudando JavaScript.
-- 😄 Pronomes: ele/dele.
+- 🌱 Estou estudando React JS.
 
 <div align="center">
   <a href="https://github.com/Victor-Olimpio">
