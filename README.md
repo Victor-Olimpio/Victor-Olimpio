@@ -1,9 +1,6 @@
 ### Olá! Seja muito bem-vindo (a)!
 ##
 
-- 🔭 Hoje estou estudando tecnologias para desenvolvimento Front-End!
-- 🌱 Estou estudando React JS.
-
 <div align="center">
   <a href="https://github.com/Victor-Olimpio">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Victor-Olimpio&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
